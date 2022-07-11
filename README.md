@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * 😎 My name is Navin Chandniya.
-* 🛠️ I’m currently working on a native android development.
+* 🛠️ I’m currently working on native android development.
 * 🐧 Linux > Windows
 
 ## Find me on:
