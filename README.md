@@ -1,7 +1,8 @@
 # Hi there 👋
 
-- 🛠️ I’m currently working on a Native Android Application.
-- ⚡ Fun fact: I love waatching Anime.
+* 😎 My name is Navin Chandniya.
+* 🛠️ I’m currently working on a native android development.
+* 🐧 Linux > Windows
 
 ## Find me on:
 * [LinkedIn](https://www.linkedin.com/in/navinchandniya)
